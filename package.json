@@ -715,7 +715,7 @@
         "@types/vscode": "^1.25.0",
         "@typescript-eslint/eslint-plugin": "^1.13.0",
         "@typescript-eslint/parser": "^1.13.0",
-        "ajv": "^6.10.2",
+        "ajv": "^6.12.3",
         "eslint": "^5.16.0",
         "eslint-utils": "^1.4.2",
         "querystringify": ">=2.0.0",
